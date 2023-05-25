@@ -1,0 +1,5 @@
+# Ignore all .sav files
+*.sav
+
+# Ignore all .xlsx (contains research data)
+*.xlsx
