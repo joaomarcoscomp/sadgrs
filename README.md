@@ -6,6 +6,10 @@ The system was created based on artificial intelligence/machine learning algorit
 
 ### Preview image of the DSS home page
 
+<p align="center">
+  <img width="800" src="images/home_preview.png">
+</p>
+
 For the creation of this system, a field survey was carried out in the city of Campo Grande, Mato Grosso do Sul, where data regarding the generation of solid waste in 158 households were collected. The collected data were used to build prediction models through regression and classification techniques.
 
 The following models were developed:
@@ -20,8 +24,8 @@ The interface was build using an open source framework called streamlit.
 
 ## How to install this project
 
-1. Clone this project
-2. Install python
+1. Install python
+2. Clone this project
 
 To configure the project, simply install the dependencies contained in the requirements.txt file as follows:
 
